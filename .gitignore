@@ -1,4 +1,8 @@
-/target/
-/.classpath
-/.project
-/Jenkinsfile
+target/
+test-output/
+logs/
+reports/
+screenshots/
+*.log
+*.class
+*.tmp
